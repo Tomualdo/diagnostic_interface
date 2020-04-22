@@ -1,0 +1,1 @@
+memcpy([w:[#MEMLINK]0500], [w:[PLC1]D00044], 1)
